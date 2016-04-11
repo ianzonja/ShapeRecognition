@@ -1,0 +1,38 @@
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\Shape recognition.exe.config
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\Shape recognition.exe
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\Shape recognition.pdb
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.dll
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.Video.DirectShow.dll
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.Video.dll
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.xml
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.Video.xml
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.Video.DirectShow.xml
+D:\Moji programi\Shape recognition\Shape recognition\obj\Debug\Shape recognition.csprojResolveAssemblyReference.cache
+D:\Moji programi\Shape recognition\Shape recognition\obj\Debug\Shape_recognition.Form1.resources
+D:\Moji programi\Shape recognition\Shape recognition\obj\Debug\Shape_recognition.Properties.Resources.resources
+D:\Moji programi\Shape recognition\Shape recognition\obj\Debug\Shape recognition.csproj.GenerateResource.Cache
+D:\Moji programi\Shape recognition\Shape recognition\obj\Debug\Shape recognition.exe
+D:\Moji programi\Shape recognition\Shape recognition\obj\Debug\Shape recognition.pdb
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.Imaging.dll
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.Math.dll
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.Imaging.xml
+D:\Moji programi\Shape recognition\Shape recognition\bin\Debug\AForge.Math.xml
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\Shape recognition.exe.config
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\obj\Debug\Shape recognition.exe
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\obj\Debug\Shape recognition.pdb
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\Shape recognition.exe
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\Shape recognition.pdb
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.dll
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.Imaging.dll
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.Math.dll
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.Video.DirectShow.dll
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.Video.dll
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.xml
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.Imaging.xml
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.Math.xml
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.Video.xml
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\bin\Debug\AForge.Video.DirectShow.xml
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\obj\Debug\Shape recognition.csprojResolveAssemblyReference.cache
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\obj\Debug\Shape_recognition.Form1.resources
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\obj\Debug\Shape_recognition.Properties.Resources.resources
+E:\Programiranje\Moji programi\Shape kopija\Shape recognition\Shape recognition\obj\Debug\Shape recognition.csproj.GenerateResource.Cache
